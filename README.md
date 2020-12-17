@@ -1,4 +1,4 @@
-## WIN
+## AOW
 
 WINNER public chain, strive to build a new digital asset transaction ecology.
 
@@ -11,11 +11,11 @@ WINNER public chain, strive to build a new digital asset transaction ecology.
 
 ## Disclaimer
 
-winner is neither launching nor operating any initial public blockchains based upon the WIN software. This release refers only to version 1.0 of our open source software. We caution those who wish to use blockchains built on WIN to carefully vet the companies and organizations launching blockchains based on WIN before disclosing any private keys to their derivative software.
+winner is neither launching nor operating any initial public blockchains based upon the AOW software. This release refers only to version 1.0 of our open source software. We caution those who wish to use blockchains built on AOW to carefully vet the companies and organizations launching blockchains based on AOW before disclosing any private keys to their derivative software.
 
 ## Operating Systems
 
-WIN currently supports the following operating systems:
+AOW currently supports the following operating systems:
 CentOS 7
 Ubuntu 18.04
 MacOS 10.14 (Mojave)
